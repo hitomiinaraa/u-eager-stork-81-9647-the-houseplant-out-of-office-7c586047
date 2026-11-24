@@ -1,3 +1,4 @@
+// Revision: entry re-verified byte-identical; one comment line, nothing else.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
